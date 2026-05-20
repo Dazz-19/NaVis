@@ -1,5 +1,4 @@
-# NaVis
-Desktop navigation assistant for visually impaired users
+# NaVis-Desktop navigation assistant for visually impaired users
 # NAVIS — Desktop Navigation Assistant
 
 A keyboard-driven desktop navigation tool for visually impaired users on Windows.
